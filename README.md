@@ -8,8 +8,8 @@ A modern and user-friendly train booking application built with **React, Vite, a
 
 ### 1️⃣ Clone the Repository
 ```sh
-https://github.com/Mugesh-A/railway.git
-cd railway
+https://github.com/Mugesh-A/MERN-project.git
+cd MERN-project
 ```
 
 ### 2️⃣ Install Dependencies
