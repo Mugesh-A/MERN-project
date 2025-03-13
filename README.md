@@ -28,7 +28,6 @@ npm install
 ```
 ### 3️⃣ Start the Bakend Server
 ```sh
-cd ..
 node index.js
 ```
 ### 3️⃣ Start the Development Server
